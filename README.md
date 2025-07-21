@@ -28,9 +28,9 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-6.png" width="200"></td>
-    <td align="center">Jun 2025 Badge</td>
-    <td align="center">Submit code daily in June 2025</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-7.png" width="200"></td>
+    <td align="center">Jul 2025 Badge</td>
+    <td align="center">Submit code daily in July 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -259,9 +259,9 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-7.png" width="200"></td>
-    <td align="center">Jul 2025 Badge</td>
-    <td align="center">Submit code daily in July 2025</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-6.png" width="200"></td>
+    <td align="center">Jun 2025 Badge</td>
+    <td align="center">Submit code daily in June 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
