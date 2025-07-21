@@ -14,6 +14,20 @@
     <th>Earnable</th>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
+    <td align="center">100 Days Badge 2025</td>
+    <td align="center">Submit code on 100+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg2550.png" width="200"></td>
+    <td align="center">50 Days Badge 2025</td>
+    <td align="center">Submit code on 50+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/guardian.png" width="200"></td>
     <td align="center">Guardian</td>
     <td align="center">Have a Contest Rating >=1600 and finish in the top 5% of a contest</td>
