@@ -37,7 +37,7 @@
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/knight.png" width="200"></td>
     <td align="center">Knight</td>
-    <td align="center">Be in the top 5% of contest-rated users (rating ≥ 1600) by overall contest rating</td>
+    <td align="center">Be in the top 25% of contest-rated users (rating ≥ 1600) by overall contest rating</td>
     <td align="center">Competition Medals</td>
     <td align="center">✅</td>
   </tr>
