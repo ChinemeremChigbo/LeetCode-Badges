@@ -42,9 +42,9 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-10.png" width="200"></td>
-    <td align="center">Oct 2025 Badge</td>
-    <td align="center">Submit code daily in October 2025</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-11.png" width="200"></td>
+    <td align="center">Nov 2025 Badge</td>
+    <td align="center">Submit code daily in November 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -301,9 +301,9 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-11.png" width="200"></td>
-    <td align="center">Nov 2025 Badge</td>
-    <td align="center">Submit code daily in November 2025</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-10.png" width="200"></td>
+    <td align="center">Oct 2025 Badge</td>
+    <td align="center">Submit code daily in October 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
