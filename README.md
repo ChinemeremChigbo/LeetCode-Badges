@@ -30,28 +30,28 @@
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/Algorithm_Deconstructor.png" width="200"></td>
     <td align="center">Algorithm Deconstructor</td>
-    <td align="center">Finish the quest "Data Structures and Algorithms"</td>
+    <td align="center">Finish the "Data Structures and Algorithms" quest</td>
     <td align="center">Competition Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/Architecture_Builder.png" width="200"></td>
     <td align="center">Architecture Builder</td>
-    <td align="center">Finish the quest "System & Software Design"</td>
+    <td align="center">Finish the "System & Software Design" quest</td>
     <td align="center">Competition Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/Data_Navigator.png" width="200"></td>
     <td align="center">Data Navigator</td>
-    <td align="center">Finish the quest "Database"</td>
+    <td align="center">Finish the "Database" quest</td>
     <td align="center">Competition Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/Mathematical_Insight.png" width="200"></td>
     <td align="center">Mathematical Insight</td>
-    <td align="center">Finish the quest "Maths"</td>
+    <td align="center">Finish the "Maths" quest</td>
     <td align="center">Competition Medals</td>
     <td align="center">✅</td>
   </tr>
