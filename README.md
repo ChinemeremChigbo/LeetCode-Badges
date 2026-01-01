@@ -511,6 +511,13 @@
     <td align="center">❌</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-11.png" width="200"></td>
+    <td align="center">Nov 2024 Badge</td>
+    <td align="center">Submit code daily in November 2024</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-12.png" width="200"></td>
     <td align="center">Dec 2024 Badge</td>
     <td align="center">Submit code daily in December 2024</td>
@@ -518,13 +525,6 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2024-11.png" width="200"></td>
-    <td align="center">Nov 2024 Badge</td>
-    <td align="center">Submit code daily in November 2024</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-    <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2023-1.png" width="200"></td>
     <td align="center">Jan 2023 Badge</td>
     <td align="center">Submit code daily in January 2023</td>
@@ -609,90 +609,6 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-1.png" width="200"></td>
-    <td align="center">Jan 2021 Badge</td>
-    <td align="center">Submit code daily in January 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-2.png" width="200"></td>
-    <td align="center">Feb 2021 Badge</td>
-    <td align="center">Submit code daily in February 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-3.png" width="200"></td>
-    <td align="center">Mar 2021 Badge</td>
-    <td align="center">Submit code daily in March 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-4.png" width="200"></td>
-    <td align="center">Apr 2021 Badge</td>
-    <td align="center">Submit code daily in April 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-5.png" width="200"></td>
-    <td align="center">May 2021 Badge</td>
-    <td align="center">Submit code daily in May 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-6.png" width="200"></td>
-    <td align="center">Jun 2021 Badge</td>
-    <td align="center">Submit code daily in June 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-7.png" width="200"></td>
-    <td align="center">Jul 2021 Badge</td>
-    <td align="center">Submit code daily in July 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-8.png" width="200"></td>
-    <td align="center">Aug 2021 Badge</td>
-    <td align="center">Submit code daily in August 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-9.png" width="200"></td>
-    <td align="center">Sep 2021 Badge</td>
-    <td align="center">Submit code daily in September 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-10.png" width="200"></td>
-    <td align="center">Oct 2021 Badge</td>
-    <td align="center">Submit code daily in October 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-11.png" width="200"></td>
-    <td align="center">Nov 2021 Badge</td>
-    <td align="center">Submit code daily in November 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-12.png" width="200"></td>
-    <td align="center">Dec 2021 Badge</td>
-    <td align="center">Submit code daily in December 2021</td>
-    <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
-  </tr>
-  <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-1.png" width="200"></td>
     <td align="center">Jan 2022 Badge</td>
     <td align="center">Submit code daily in January 2022</td>
@@ -773,6 +689,90 @@
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2022-12.png" width="200"></td>
     <td align="center">Dec 2022 Badge</td>
     <td align="center">Submit code daily in December 2022</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-1.png" width="200"></td>
+    <td align="center">Jan 2021 Badge</td>
+    <td align="center">Submit code daily in January 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-2.png" width="200"></td>
+    <td align="center">Feb 2021 Badge</td>
+    <td align="center">Submit code daily in February 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-3.png" width="200"></td>
+    <td align="center">Mar 2021 Badge</td>
+    <td align="center">Submit code daily in March 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-4.png" width="200"></td>
+    <td align="center">Apr 2021 Badge</td>
+    <td align="center">Submit code daily in April 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-5.png" width="200"></td>
+    <td align="center">May 2021 Badge</td>
+    <td align="center">Submit code daily in May 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-6.png" width="200"></td>
+    <td align="center">Jun 2021 Badge</td>
+    <td align="center">Submit code daily in June 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-7.png" width="200"></td>
+    <td align="center">Jul 2021 Badge</td>
+    <td align="center">Submit code daily in July 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-8.png" width="200"></td>
+    <td align="center">Aug 2021 Badge</td>
+    <td align="center">Submit code daily in August 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-9.png" width="200"></td>
+    <td align="center">Sep 2021 Badge</td>
+    <td align="center">Submit code daily in September 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-10.png" width="200"></td>
+    <td align="center">Oct 2021 Badge</td>
+    <td align="center">Submit code daily in October 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-11.png" width="200"></td>
+    <td align="center">Nov 2021 Badge</td>
+    <td align="center">Submit code daily in November 2021</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2021-12.png" width="200"></td>
+    <td align="center">Dec 2021 Badge</td>
+    <td align="center">Submit code daily in December 2021</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
