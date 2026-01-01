@@ -14,20 +14,6 @@
     <th>Earnable</th>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
-    <td align="center">100 Days Badge 2025</td>
-    <td align="center">Submit code on 100+ distinct days in 2025</td>
-    <td align="center">Annual Medals</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg2550.png" width="200"></td>
-    <td align="center">50 Days Badge 2025</td>
-    <td align="center">Submit code on 50+ distinct days in 2025</td>
-    <td align="center">Annual Medals</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
     <td align="center"><img src="Media/Badges/Competition-Medals/PNG/guardian.png" width="200"></td>
     <td align="center">Guardian</td>
     <td align="center">Be in the top 5% of contest-rated users (rating ≥ 1600) by overall contest rating</td>
@@ -67,13 +53,6 @@
     <td align="center">Mathematical Insight</td>
     <td align="center">Finish the quest "Maths"</td>
     <td align="center">Competition Medals</td>
-    <td align="center">✅</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-12.png" width="200"></td>
-    <td align="center">Dec 2025 Badge</td>
-    <td align="center">Submit code daily in December 2025</td>
-    <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
@@ -201,6 +180,34 @@
     <td align="center">Submit code on 365+ distinct days</td>
     <td align="center">Submission Days</td>
     <td align="center">✅</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2025_lg.png" width="200"></td>
+    <td align="center">Annual Badge 2025</td>
+    <td align="center">Submit code on 300+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg200.png" width="200"></td>
+    <td align="center">200 Days Badge 2025</td>
+    <td align="center">Submit code on 200+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
+    <td align="center">100 Days Badge 2025</td>
+    <td align="center">Submit code on 100+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg2550.png" width="200"></td>
+    <td align="center">50 Days Badge 2025</td>
+    <td align="center">Submit code on 50+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2024-lg.png" width="200"></td>
@@ -339,6 +346,13 @@
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-11.png" width="200"></td>
     <td align="center">Nov 2025 Badge</td>
     <td align="center">Submit code daily in November 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-12.png" width="200"></td>
+    <td align="center">Dec 2025 Badge</td>
+    <td align="center">Submit code daily in December 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
