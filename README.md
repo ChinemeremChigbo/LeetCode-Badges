@@ -56,6 +56,13 @@
     <td align="center">✅</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/1.png" width="200"></td>
+    <td align="center">Jan 2026 Badge</td>
+    <td align="center">Submit code daily in January 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Study-Plan-Medals/PNG/Introduction_to_Pandas_Badge.png" width="200"></td>
     <td align="center">Introduction to Pandas</td>
     <td align="center">Complete the "Introduction to Pandas" study plan</td>
@@ -270,6 +277,83 @@
     <td align="center">Annual Medal 2021</td>
     <td align="center">Submit code on 300+ distinct days in 2021</td>
     <td align="center">Annual Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/2.png" width="200"></td>
+    <td align="center">Feb 2026 Badge</td>
+    <td align="center">Submit code daily in February 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/3.png" width="200"></td>
+    <td align="center">Mar 2026 Badge</td>
+    <td align="center">Submit code daily in March 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/4.png" width="200"></td>
+    <td align="center">Apr 2026 Badge</td>
+    <td align="center">Submit code daily in April 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/5.png" width="200"></td>
+    <td align="center">May 2026 Badge</td>
+    <td align="center">Submit code daily in May 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/6.png" width="200"></td>
+    <td align="center">Jun 2026 Badge</td>
+    <td align="center">Submit code daily in June 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/7.png" width="200"></td>
+    <td align="center">Jul 2026 Badge</td>
+    <td align="center">Submit code daily in July 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/8.png" width="200"></td>
+    <td align="center">Aug 2026 Badge</td>
+    <td align="center">Submit code daily in August 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/9.png" width="200"></td>
+    <td align="center">Sep 2026 Badge</td>
+    <td align="center">Submit code daily in September 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/10.png" width="200"></td>
+    <td align="center">Oct 2026 Badge</td>
+    <td align="center">Submit code daily in October 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/11.png" width="200"></td>
+    <td align="center">Nov 2026 Badge</td>
+    <td align="center">Submit code daily in November 2026</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/12.png" width="200"></td>
+    <td align="center">Dec 2026 Badge</td>
+    <td align="center">Submit code daily in December 2026</td>
+    <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
