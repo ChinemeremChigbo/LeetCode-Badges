@@ -56,9 +56,9 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/2.png" width="200"></td>
-    <td align="center">Feb 2026 Badge</td>
-    <td align="center">Submit code daily in February 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/3.png" width="200"></td>
+    <td align="center">Mar 2026 Badge</td>
+    <td align="center">Submit code daily in March 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -287,9 +287,9 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/3.png" width="200"></td>
-    <td align="center">Mar 2026 Badge</td>
-    <td align="center">Submit code daily in March 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/2.png" width="200"></td>
+    <td align="center">Feb 2026 Badge</td>
+    <td align="center">Submit code daily in February 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
