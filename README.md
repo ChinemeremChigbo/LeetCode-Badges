@@ -58,7 +58,7 @@
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/4.png" width="200"></td>
     <td align="center">Apr 2026 Badge</td>
-    <td align="center">Submit code daily in April 2026</td>
+    <td align="center">Submit Problem Of The Day Daily In April 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
