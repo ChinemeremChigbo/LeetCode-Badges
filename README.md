@@ -189,6 +189,13 @@
     <td align="center">✅</td>
   </tr>
   <tr>
+    <td align="center"><img src="Media/Badges/Competition-Medals/PNG/Quest_Offer_Expedition_2026.png" width="200"></td>
+    <td align="center">2026 Offer Expedition Badge</td>
+    <td align="center">Finish the "2026 Offer Expedition" quest</td>
+    <td align="center">Competition Medals</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/2025_lg.png" width="200"></td>
     <td align="center">Annual Badge 2025</td>
     <td align="center">Submit code on 300+ distinct days in 2025</td>
