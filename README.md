@@ -56,9 +56,9 @@
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/8.png" width="200"></td>
-    <td align="center">Aug 2026 Badge</td>
-    <td align="center">Solve the daily problem every day in August 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/10.png" width="200"></td>
+    <td align="center">Oct 2026 Badge</td>
+    <td align="center">Solve the daily problem every day in October 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -357,16 +357,16 @@
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/9.png" width="200"></td>
-    <td align="center">Sep 2026 Badge</td>
-    <td align="center">Solve the daily problem every day in September 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/8.png" width="200"></td>
+    <td align="center">Aug 2026 Badge</td>
+    <td align="center">Solve the daily problem every day in August 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/10.png" width="200"></td>
-    <td align="center">Oct 2026 Badge</td>
-    <td align="center">Solve the daily problem every day in October 2026</td>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/9.png" width="200"></td>
+    <td align="center">Sep 2026 Badge</td>
+    <td align="center">Solve the daily problem every day in September 2026</td>
     <td align="center">Daily Medals</td>
     <td align="center">❌</td>
   </tr>
